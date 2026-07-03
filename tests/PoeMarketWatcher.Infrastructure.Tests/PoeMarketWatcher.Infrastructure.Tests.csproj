@@ -22,4 +22,8 @@
     <ProjectReference Include="..\..\src\PoeMarketWatcher.Infrastructure\PoeMarketWatcher.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Include="Fixtures\*.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
 </Project>
