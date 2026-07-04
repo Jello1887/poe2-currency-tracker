@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoeMarketWatcher.Core.Tests
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoeMarketWatcher.Infrastructure.Tests", "tests\PoeMarketWatcher.Infrastructure.Tests\PoeMarketWatcher.Infrastructure.Tests.csproj", "{104AC45F-BEAF-4B0C-873D-EB75C067DB8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoeMarketWatcher.App.Tests", "tests\PoeMarketWatcher.App.Tests\PoeMarketWatcher.App.Tests.csproj", "{8911FC2E-8E77-497E-B477-39E2B2475B49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,18 @@ Global
 		{104AC45F-BEAF-4B0C-873D-EB75C067DB8C}.Release|x64.Build.0 = Release|Any CPU
 		{104AC45F-BEAF-4B0C-873D-EB75C067DB8C}.Release|x86.ActiveCfg = Release|Any CPU
 		{104AC45F-BEAF-4B0C-873D-EB75C067DB8C}.Release|x86.Build.0 = Release|Any CPU
+		{8911FC2E-8E77-497E-B477-39E2B2475B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8911FC2E-8E77-497E-B477-39E2B2475B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8911FC2E-8E77-497E-B477-39E2B2475B49}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8911FC2E-8E77-497E-B477-39E2B2475B49}.Debug|x64.Build.0 = Debug|Any CPU
+		{8911FC2E-8E77-497E-B477-39E2B2475B49}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8911FC2E-8E77-497E-B477-39E2B2475B49}.Debug|x86.Build.0 = Debug|Any CPU
+		{8911FC2E-8E77-497E-B477-39E2B2475B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8911FC2E-8E77-497E-B477-39E2B2475B49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8911FC2E-8E77-497E-B477-39E2B2475B49}.Release|x64.ActiveCfg = Release|Any CPU
+		{8911FC2E-8E77-497E-B477-39E2B2475B49}.Release|x64.Build.0 = Release|Any CPU
+		{8911FC2E-8E77-497E-B477-39E2B2475B49}.Release|x86.ActiveCfg = Release|Any CPU
+		{8911FC2E-8E77-497E-B477-39E2B2475B49}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -97,5 +111,6 @@ Global
 		{6CC6452E-BDDC-46D2-8F4A-34A58E6224F8} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
 		{7CBA3474-A76F-4332-8E48-07306B2B4990} = {0AB3BF05-4346-4AA6-1389-037BE0695223}
 		{104AC45F-BEAF-4B0C-873D-EB75C067DB8C} = {0AB3BF05-4346-4AA6-1389-037BE0695223}
+		{8911FC2E-8E77-497E-B477-39E2B2475B49} = {0AB3BF05-4346-4AA6-1389-037BE0695223}
 	EndGlobalSection
 EndGlobal
